@@ -1,0 +1,4 @@
+# Knn_DataMining
+This study presents a proposed methodology to predict whether an individual earns more than USD 50,000 (50K) or less in a year using the 1994 US Census Data sourced from the UCI Machine Learning Repository (Lichman, 2013) [9].
+The purpose of this work was to train and test the model with a large dataset. The performance measures such as accuracy, ROC, and confusion matrix were employed to confirm the validity of the method. The model was designed in layers with each layer solving one of the basic issues of supervised learning. The model was optimized for an extremely large data set in real-time. In that case, the optimization focuses on the reduction of execution time as well as further improvement of inaccuracy. 
+Due to the large dataset, we concluded that KNN Classification Algorithm takes much more time than usual to perform and with slightly less accuracy.
